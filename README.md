@@ -36,9 +36,9 @@ All files are provided as ZIP archives to keep the repository size manageable.
 
 ## Contact
 
-For questions about the data or code, please contact the corresponding author:
+For questions about the data or code, please contact the author:
 
-- **Raj Kumar Pal** – rkpal@tamu.edu
+- **Wenbo Li** – wuhenyisheng@tamu.edu
 
 The data are provided for research and educational purposes in support of the
 above publication.
